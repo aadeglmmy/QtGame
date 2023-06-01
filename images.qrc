@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/BlueAlien.png</file>
+        <file>Resources/BlueBullet.png</file>
+        <file>Resources/gameOver.png</file>
+        <file>Resources/invader.png</file>
+        <file>Resources/mainLogo.png</file>
+        <file>Resources/over.png</file>
+        <file>Resources/PinkAlien.png</file>
+        <file>Resources/PinkBullet.png</file>
+        <file>Resources/RedAlien.png</file>
+        <file>Resources/RedBullet.png</file>
+        <file>Resources/Background.jpg</file>
+        <file>Resources/BlueShip.png</file>
+        <file>Resources/PinkShip.png</file>
+        <file>Resources/RedShip.png</file>
+    </qresource>
+</RCC>
